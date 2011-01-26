@@ -1,0 +1,13 @@
+h1. pdfbox
+
+Clojure library to simplify the usage of "PDFBox":http://pdfbox.apache.org/
+
+h1. Usage
+
+...write up some usage once the api exists..
+
+h1. License
+
+Copyright (C) 2010 Relay Network LLC
+
+Distributed under the Eclipse Public License, the same as Clojure.
